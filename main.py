@@ -27,6 +27,7 @@ import time
 c = 10
 l = 10
 d = 1
+l = 2
 
 for i in range(c):
     for j in range (l):
