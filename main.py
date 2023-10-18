@@ -39,4 +39,4 @@ for i in range(c):
     print()
 print("xupapi")
 
-print("Shee broken, amagaaa")
+print("Shee broken, amagaaamais1")
