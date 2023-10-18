@@ -38,5 +38,6 @@ for i in range(c):
         time.sleep(0.3)
     print()
 print("xupapi")
+print("ola")
 
 print("Shee broken, amagaaamais1")
