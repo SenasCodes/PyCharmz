@@ -35,9 +35,9 @@ for i in range(c):
             break
         d=d+1
         print(str(d)+" ", end="")
-        time.sleep(0.3)
+        time.sleep(0.4)
     print()
 print("xupapi")
 print("ola")
 
-print("Shee kjkbroken, amhjagaaamais133")
+print("Tenho de acaber este mambos")
