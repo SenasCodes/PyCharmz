@@ -40,4 +40,4 @@ for i in range(c):
 print("xupapi")
 print("ola")
 
-print("Tenhogg ggdffefhghfgfhfcg ffbgacabd4TRTderff este mambos")
+print("Tenhogg ggdffefhghfertgfhfcg ffbgacabd4TRTderff este mambos")
